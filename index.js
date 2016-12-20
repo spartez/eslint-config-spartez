@@ -6,7 +6,9 @@ module.exports = {
         "semi": ["warn", "always"],
         "eqeqeq": "warn",
         "max-len": ["warn", 120, 4, { "ignoreUrls": true }],
-        "comma-dangle": ["warn", "never"]
+        "comma-dangle": ["warn", "never"],
+        "no-unused-vars": ["warn"],
+        "no-undef": ["warn"]
     },
     "env": {
         "es6": true,
