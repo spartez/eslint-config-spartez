@@ -14,7 +14,7 @@ Once the `eslint-config-spartez` is installed, specify `spartez` in the `extends
 
 ```json
 {
-  "extends": "spartez"
+    "extends": "spartez"
 }
 ```
 
