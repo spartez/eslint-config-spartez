@@ -13,7 +13,8 @@ module.exports = {
         'no-unused-vars': ['warn'],
         'object-curly-spacing': ['warn', 'always'],
         'quotes': ['warn', 'single', { 'allowTemplateLiterals': true }],
-        'semi': ['warn', 'always']
+        'semi': ['warn', 'always'],
+        'space-infix-ops': ['warn']
     },
     env: {
         'es6': true,
