@@ -11,6 +11,7 @@ module.exports = {
         'max-len': ['warn', 120, 4, { 'ignoreUrls': true }],
         'no-undef': ['warn'],
         'no-unused-vars': ['warn'],
+        'no-use-before-define': ['warn', { functions: false }],
         'object-curly-spacing': ['warn', 'always'],
         'quotes': ['warn', 'single', { 'allowTemplateLiterals': true }],
         'semi': ['warn', 'always'],
