@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-spartez",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "description": "Spartez's base JS ESLint config",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
